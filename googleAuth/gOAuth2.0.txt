@@ -1,0 +1,19 @@
+OAuth consent screen
+User type
+External
+App name
+fast-g-auth
+Support email
+vinaymaheshwari35@gmail.com
+App logo
+Not provided
+Application homepage link
+Not provided
+Application privacy policy link
+Not provided
+Application terms of service link
+Not provided
+Authorized domains
+Not provided
+Contact email addresses
+vinaymaheshwari35@gmail.com
